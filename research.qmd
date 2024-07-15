@@ -1,0 +1,37 @@
+---
+title: "Investigación"
+---
+
+Mi investigación se desarrolla en las áreas el desarrollo económico y la econometría aplicada. Aquí puedes encontrar una lista de los proyectos en los que trabajo actualemnte. Para los proyectos que han resultado en una publicación, ver mis Publicaciones.
+
+## Evaluación
+
+En mi investigación, uso métodos econométricos para entender los efectos de políticas sobre distintas variables de interés. Uso una serie de métodos que incluyen diseños experimentales, simulaciones, técnicas econométricas no experimentales, entre otras. Actualmente, trabajo en los siguientes proyectos:
+
+- "Expanding the Phytosanitary Exclusion Zone: Impacts on U.S.-Mexico Avocado Trade", con Aleks Schaefer.
+
+- "The effects of an oil price bust in a subnational oil-producing economy", con Gerardo Juárez y Emmanuel Chávez.
+
+## COVID-19
+
+Actualmente trabajo en un proyecto de investigación que analiza los efectos del covid-19 en varias dimensiones en México. Estos proyectos se encuentran en la fase de análisis de datos:
+
+- "The Effects of the Pandemic in US on Mexican Households Consumption Allocation", con Francisco Cabrera.
+
+## Cambio climático
+
+En una investigación en curso, usamos un experimento en laboratorio para estudiar la relación entre la temperatura y el comportamiento prosocial, así como el papel del género y la cultura para moldear dicha relación:
+
+- "Heat Stress, Gender, and Economic Behavior: Results from a Five-Country Experiment", con Alessandra Cassar y otros coautores.
+
+## Interacciones estratégicas en migración
+
+En mi tesis doctoral analicé las decisiones dinámicas y estratégicas que ocurren en las decisiones de migrar en el México rural usando modelos de forma reducida y modelos econométricos estructurales. Esta investigación ha resultado en varios artículos sobre los que trabajo actualmente:
+
+- "Neighborhood Effects in Migration", con C.-Y. Cynthia Lin Lawell & J. Edward Taylor.
+
+- "Migration Dynamics, Strategy, and Policy", con C.-Y. Cynthia Lin Lawell & J. Edward Taylor.
+
+- "The Economics of Migration and Migration Policy in Rural Mexico", con C.-Y. Cynthia Lin Lawell.
+
+---

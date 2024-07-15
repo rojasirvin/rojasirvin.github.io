@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: "Contacto"
 ---
 
-About this site
+## Correo electrónico
+[irvin.rojas@cide.edu](mailto:irvin.rojas@cide.edu)
 
-```{r}
-1 + 1
-```
+## Teléfono de oficina
++52 (55) 57 27 98 00 ext. 2766
+
+## Dirección
+
+Centro de Investigación y Docencia Económicas
+
+División de Economía
+
+Cubículo 4, planta alta
+
+Carretera México-Toluca 3655
+
+Colonia Lomas de Santa Fe
+
+CP 01210
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3763.8736235633187!2d-99.264129!3d19.374624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2007849ebcbbb%3A0xe5979a5a0484be7f!2sCentro%20de%20Investigaci%C3%B3n%20y%20Docencia%20Econ%C3%B3micas!5e0!3m2!1sen!2sus!4v1720992678076!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+---

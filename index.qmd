@@ -1,11 +1,63 @@
 ---
-title: "rojasirvin.github.io"
+title: "Irvin Rojas"
+image: "https://pbs.twimg.com/profile_images/1784316566340861953/1ZuQ71HY_400x400.jpg"
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/rojasirvin
+    - icon: github
+      text: GitHub
+      href: https://github.com/rojasirvin
+    - icon: mail
+      text: Email
+      href: mailto:irvin.rojas@cide.edu
 ---
 
-This is a Quarto website.
+# Nuevo artículo de investigación
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+:::: {.columns} 
+
+::: {.column width="50%"} 
+
+::: {.justify}
+
+En este artículo, en colaboración con Manuela Angeulucci, Silvia Prina y Carlos Chiapa, mostramos cómo las beneficiarias del programa PROSPERA suavizan el consumo de alimentos antes y después del pago de la transferencia y si la suavización es costosa para las beneficiarias. Encontramos que el consumo de alimentos no cambia en los días antes y después de la transferencia y no encontramos evidencia de que los hogares incurran en costos para suavizar el consumo. El costo de acceso a la transferencia, incluyendo la aversión de las beneficiarias por usar tarjetas de débito y el costo de los retiros en los cajeros automáticos pueden ayudar a suavizar el consumo a las usuarias con inconsistencia temporal y con menor experiencia en el uso de tarjetas de débito.
+
+:::
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+
+![Figura 1 en Angelucci et al.](consumption-smoothing-paper.png){.lightbox fig-align="center"}
+
+:::
+
+::::
+
+
+---
+
+# Cursos
+
+Econometría II - Maestría en Economía del CIDE
+
+Evaluación de Programas - Maestría y Licenciatura en Economía del CIDE
+
+---
+
+# Apariciones en medios
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbHb4oqYRXI?si=EG9zuV1liNmDW-4J&amp;start=649" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
