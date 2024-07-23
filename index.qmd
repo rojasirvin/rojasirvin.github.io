@@ -11,12 +11,15 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/rojasirvin
+      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/rojasirvin
+      target: _blank
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/rojasirvin
+      target: _blank
 ---
 
 # Nuevo artículo de investigación
