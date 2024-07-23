@@ -1,0 +1,15 @@
+---
+title: "Bio"
+lang: es
+---
+
+Irvin Rojas es profesor – investigador de la División de Economía del CIDE. Su investigación se enfoca en temas de desarrollo económico, incluyendo evaluación de políticas públicas, migración, desarrollo rural, cambio climático, agricultura y alimentación. En el CIDE imparte cursos de econometría y de métodos de inferencia causal. Ha sido investigador visitante en la Universidad de Cornell, donde se encuentra afiliado como investigador. También ha sido consultor para organismos internacionales como la FAO, el Banco Mundial, el Banco Interamericano de Desarrollo y el Programa Mundial de Alimentos.
+
+## Educación
+
+Universidad de California, Davis | Doctor en Economía Agrícola y de los Recursos Naturales
+
+El Colegio de México | Maestro en Economía
+
+Universidad Autónoma Chapingo | Licenciado en Economía Agrícola
+

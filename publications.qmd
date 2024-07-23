@@ -1,5 +1,6 @@
 ---
 title: "Publicaciones"
+lang: es
 ---
 
 ## Artículos de investigación

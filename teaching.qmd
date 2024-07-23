@@ -1,5 +1,6 @@
 ---
 title: "Docencia"
+lang: es
 ---
 
 ## Cursos curriculares en el CIDE

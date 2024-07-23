@@ -11,12 +11,14 @@ website:
       - teaching.qmd
       - publications.qmd
       - research.qmd
+      - media.qmd
+      - bio.qmd
       - about.qmd
 
 
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
     toc: true
     page-layout: full
