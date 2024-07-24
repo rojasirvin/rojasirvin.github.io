@@ -58,9 +58,10 @@ Angelucci, Manuela, Carlos Chiapa, Silvia Prina, \& Irvin Rojas. (2024). ["Trans
 
 # Cursos
 
-Econometría II - Maestría en Economía del CIDE
+[Evaluación de Programas](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"} - Maestría y Licenciatura en Economía del CIDE
 
-Evaluación de Programas - Maestría y Licenciatura en Economía del CIDE
+[Econometría II](https://rojasirvin.github.io/econometria-ii/){target="_blank"} - Maestría en Economía del CIDE
+
 
 [Ver Docencia](teaching.qmd)
 
