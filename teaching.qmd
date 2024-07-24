@@ -11,7 +11,7 @@ lang: es
 
 - Econometría II, 2020 - 2024.
 
-  - Ir al sitio del curso
+  - [Ir al sitio del curso **Econometría II**](https://rojasirvin.github.io/econometria-ii/){target="_blank"}
 
 - Seminario de Titulación, 2020 - 2024.
 
