@@ -7,7 +7,7 @@ lang: es
 
 - Evaluación de Programas, 2018 - 2024.
 
-  - [Ir al sitio del curso **Evaluación de Programas 2024**](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"}
+  - [Ir al sitio del curso **Evaluación de Programas**](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"}
 
 - Econometría II, 2020 - 2024.
 
