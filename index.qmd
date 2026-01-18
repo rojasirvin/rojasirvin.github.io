@@ -1,6 +1,6 @@
 ---
 title: "Irvin Rojas"
-image: "https://pbs.twimg.com/profile_images/1784316566340861953/1ZuQ71HY_400x400.jpg"
+image: "rojas-panorama-1.jpg"
 toc: false
 lang: es
 about: 
@@ -8,18 +8,12 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/rojasirvin
-      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/rojasirvin
-      target: _blank
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/rojasirvin
-      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=es&user=FUwdSTMAAAAJ&view_op=list_works&sortby=pubdate
+
 ---
 
 # Nuevo artículo de investigación
@@ -31,9 +25,9 @@ about:
 
 ::: {.justify}
 
-En este artículo, en colaboración con Manuela Angelucci, Silvia Prina y Carlos Chiapa, mostramos cómo las beneficiarias del programa PROSPERA suavizan el consumo de alimentos antes y después del pago de la transferencia y si la suavización es costosa para las beneficiarias. Encontramos que el consumo de alimentos no cambia en los días antes y después de la transferencia y no encontramos evidencia de que los hogares incurran en costos para suavizar el consumo. El costo de acceso a la transferencia, incluyendo la aversión de las beneficiarias por usar tarjetas de débito y el costo de los retiros en los cajeros automáticos pueden ayudar a suavizar el consumo a las usuarias con inconsistencia temporal y con menor experiencia en el uso de tarjetas de débito.
+En este artículo, en coautoría con Aleks Schaefer (Oklahoma State University), estudiamos los impactos de mercado y las consecuencias no deseadas de la decisión de 2022 de expandir la zona de exclusión fitosanitaria de Estados Unidos para permitir la importación de aguacates del estado de Jalisco, rompiendo el monopolio histórico de Michoacán. Los resultados principales indican que, si bien la expansión fue inequívocamente beneficiosa para los consumidores estadounidenses al reducir precios y aumentar el volumen de importación, los efectos en México fueron heterogéneos: se observó una caída en los precios domésticos de los aguacates de Michoacán y un aumento en los de alta gama de Jalisco, pero, más críticamente, el cambio en la estructura de incentivos económicos parece haber alterado las dinámicas del crimen organizado y la violencia relacionada con cárteles en ambas regiones productoras.
 
-Angelucci, Manuela, Carlos Chiapa, Silvia Prina, \& Irvin Rojas. (2024). ["Transitory Income Changes and Consumption Smoothing: Evidence from Mexico."](https://www.sciencedirect.com/science/article/pii/S0047272723001950?casa_token=LQLLia44LVEAAAAA:yxkZWOMhOnuga4m22XBDkS8yjQXfSmN8OOGtDwcjW9uKTy9r1HINOETQI4PvasjwodykpTHp0w4){target="_blank"} *Journal of Public Economics*, 230, 105013.
+Rojas, I., \& Schaefer, K. A. (2024). ["Expanding the phytosanitary exclusion zone for Mexican avocados: Market impacts and unintended consequences."](https://www.sciencedirect.com/science/article/pii/S0306919224001490?casa_token=klFCmKi8oeYAAAAA:PxyG3JCyC-vIVouimfqlgewf3fFfjFqQX2WZRBZpUCLKFcF8Yt-9-H4Xogv_t1AZFB6OAJ7JW6s){target="_blank"} *Food Policy*, 129, 102738.
 
 [Ver Publicaciones](publications.qmd)
 
@@ -47,7 +41,7 @@ Angelucci, Manuela, Carlos Chiapa, Silvia Prina, \& Irvin Rojas. (2024). ["Trans
 
 ::: {.column width="45%"}
 
-![Figura 1 en Angelucci et al.](consumption-smoothing-paper.png){.lightbox fig-align="center"}
+![Figura 7 en Rojas \& Schaefer.](avocado-paper.jpg){.lightbox fig-align="center"}
 
 :::
 
@@ -58,9 +52,9 @@ Angelucci, Manuela, Carlos Chiapa, Silvia Prina, \& Irvin Rojas. (2024). ["Trans
 
 # Cursos
 
-[Evaluación de Programas](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"} - Maestría y Licenciatura en Economía del CIDE
+[Inferencia Causal](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"} - Maestría en Economía del CIDE
 
-[Econometría II](https://rojasirvin.github.io/econometria-ii/){target="_blank"} - Maestría en Economía del CIDE
+[Econometría Aplicada y Ciencia de Datos](https://rojasirvin.github.io/econometria-ii/){target="_blank"} - Licenciatura y Maestría en Economía del CIDE
 
 
 [Ver Docencia](teaching.qmd)
