@@ -3,31 +3,34 @@ title: "Docencia"
 lang: es
 ---
 
-## Cursos curriculares en el CIDE
+## Cursos en el CIDE
 
-- Evaluación de Programas, 2018 - 2024.
+- Inferencia Causal (en construcción), 2025 a la fecha
 
-  - [Ir al sitio del curso **Evaluación de Programas**](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"}
+---
 
-- Econometría II, 2020 - 2024.
+## Cursos anteriores en el CIDE 
 
-  - [Ir al sitio del curso **Econometría II**](https://rojasirvin.github.io/econometria-ii/){target="_blank"}
+- Econometría Aplicada y Ciencia de Datos, 2025
 
-- Seminario de Titulación, 2020 - 2024.
+- Evaluación de Programas, 2018 - 2024
+
+- Econometría Avanzada, 2020 - 2024
+
+- Seminario de Titulación, 2020 - 2024
 
 - Microeconometría, 2019
-
 
 ---
 
 ## Otros cursos
 
-- Econometría Avanzada, Universidad Autónoma Chapingo / CIESTAAM, 2022.
+- Econometría Avanzada, Universidad Autónoma Chapingo / CIESTAAM, 2022
 
-- Temas de Macroeconomía, Universidad Autónoma Chapingo, 2020.
+- Temas de Macroeconomía, Universidad Autónoma Chapingo, 2020
 
-- Introducción a las metodologías cuantitativas para la evaluación, INEE / CIDE, 2019.
+- Introducción a las metodologías cuantitativas para la evaluación, INEE / CIDE, 2019
 
-- Evaluación con Stata, CIDE, 2018.
+- Evaluación con Stata, CIDE, 2018
 
 ---

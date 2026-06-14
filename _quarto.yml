@@ -5,20 +5,26 @@ project:
 website:
   title: "Irvin Rojas"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - teaching.qmd
       - publications.qmd
       - research.qmd
       - media.qmd
-      - bio.qmd
       - about.qmd
+      - contact.qmd
+  page-footer:
+    left: "© 2026 Irvin Rojas"
+    center: "Profesor-investigador · División de Economía, CIDE"
+    right: "Construido con [Quarto](https://quarto.org){target=\"_blank\"}"
 
 
 format:
   html:
-    theme: cyborg
+    theme:
+      dark: cyborg
+      light: cosmo
     css: styles.css
     toc: true
     page-layout: full

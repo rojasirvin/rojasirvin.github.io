@@ -46,53 +46,6 @@ body.quarto-light {
   border-bottom-color: var(--ir-fg);
 }
 
-/* ---------------- CONTENT PAGES (Publicaciones, Docencia, Bio, …) ----------------
-   Scoped to every page EXCEPT the homepage (the one with the full-width .hero) */
-#quarto-document-content:not(:has(.hero)) {
-  max-width: 900px;
-}
-
-/* Section headers get the homepage's accent bar */
-#quarto-document-content h2 {
-  font-size: 1.7rem;
-  font-weight: 700;
-  margin: 2.2rem 0 1.3rem;
-  padding-left: 0.75rem;
-  border-left: 4px solid var(--ir-accent);
-}
-
-/* Page title (H1) matches the hero's heavier weight */
-#title-block-header .title {
-  font-weight: 800;
-  letter-spacing: -0.01em;
-}
-
-/* Monochrome links like the homepage (hero/text buttons opt out via border:none !important) */
-#quarto-document-content a {
-  text-decoration: none;
-  border-bottom: 1px solid var(--ir-line);
-  transition: border-color 0.15s ease, color 0.15s ease;
-}
-#quarto-document-content a:hover {
-  color: var(--ir-fg);
-  border-bottom-color: var(--ir-fg);
-}
-
-/* Comfortable reading rhythm across content pages (incl. lead paragraphs) */
-#quarto-document-content:not(:has(.hero)) p,
-#quarto-document-content:not(:has(.hero)) li {
-  line-height: 1.6;
-}
-#quarto-document-content:not(:has(.hero)) p {
-  text-align: justify;
-}
-#quarto-document-content section.level2 p {
-  margin-bottom: 1rem;
-}
-#quarto-document-content section.level2 > ul > li {
-  margin-bottom: 0.5rem;
-}
-
 /* ---------------- HERO ---------------- */
 .hero {
   display: flex;
@@ -250,14 +203,8 @@ body.quarto-light {
   background: #ffffff;            /* default = dark theme knob */
   transform: translateY(-50%);
   transition: left 0.2s ease, background-color 0.2s ease;
-  font-size: 0 !important;        /* collapse the bootstrap glyph */
-  color: transparent !important;
-  overflow: hidden;
 }
-.quarto-color-scheme-toggle > .bi::before {
-  content: "" !important;
-  font-size: 0 !important;
-}
+.quarto-color-scheme-toggle > .bi::before { content: "" !important; }
 
 /* Dark version on: knob left, white */
 body.quarto-dark .quarto-color-scheme-toggle {
@@ -328,57 +275,6 @@ html { scroll-behavior: smooth; }
   aspect-ratio: 16 / 9;
   height: auto;
   border-radius: 0.6rem;
-}
-
-/* Map nested in the right column of the Contacto page */
-.map-frame {
-  margin-top: 1.25rem;
-}
-.map-frame iframe {
-  width: 100%;
-  height: 320px;
-  border: 0;
-  border-radius: 0.6rem;
-}
-
-/* Expandable abstracts on Publicaciones */
-/* Pull the Resumen toggle up close to its paper... */
-#quarto-document-content section.level2 p:has(+ details.abstract) {
-  margin-bottom: 0.2rem;
-}
-/* ...and leave more space after the abstract before the next paper */
-details.abstract {
-  margin: 0 0 1.9rem;
-}
-details.abstract summary {
-  cursor: pointer;
-  list-style: none;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  width: fit-content;
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--ir-muted);
-  user-select: none;
-}
-details.abstract summary::-webkit-details-marker { display: none; }
-details.abstract summary::before {
-  content: "\25B8"; /* ▸ */
-  font-size: 0.75rem;
-  transition: transform 0.15s ease;
-}
-details.abstract[open] summary::before { transform: rotate(90deg); }
-details.abstract summary:hover { color: var(--ir-fg); }
-details.abstract p {
-  margin: 0.5rem 0 0;
-  padding-left: 0.9rem;
-  border-left: 2px solid var(--ir-line);
-  font-size: 0.92rem;
-  line-height: 1.6;
-  text-align: justify;
-  color: var(--ir-fg);
-  opacity: 0.88;
 }
 
 /* "Ver más ->" text button */

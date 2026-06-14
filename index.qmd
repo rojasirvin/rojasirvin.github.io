@@ -1,27 +1,58 @@
 ---
-title: "Irvin Rojas"
+pagetitle: "Irvin Rojas"
+description: "Profesor-investigador en el CIDE. Desarrollo económico, evaluación de políticas, agricultura y cambio climático."
 image: "rojas-panorama-1.jpg"
 toc: false
 lang: es
-about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/rojasirvin
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?hl=es&user=FUwdSTMAAAAJ&view_op=list_works&sortby=pubdate
-
+page-layout: full
 ---
 
-# Nuevo artículo de investigación
+::::: {.hero}
+
+:::: {.hero-left}
+
+::: {.hero-socials}
+[<i class="bi bi-github"></i>](https://github.com/rojasirvin){target="_blank" title="GitHub"}
+
+[{{< ai google-scholar >}}](https://scholar.google.com/citations?hl=es&user=FUwdSTMAAAAJ&view_op=list_works&sortby=pubdate){target="_blank" title="Google Scholar"}
+
+[<i class="bi bi-envelope-fill"></i>](mailto:irvin.rojas@cide.edu){title="Correo"}
+
+[<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/rojasirvin/){target="_blank" title="LinkedIn"}
+:::
+
+::: {.hero-content}
+
+[Irvin Rojas]{.hero-title}
+
+[Profesor-investigador · CIDE]{.hero-subtitle}
+
+[Investigador en temas de desarrollo económico, incluyendo evaluación de políticas públicas, agricultura, migración y cambio climático. En el CIDE, enseño cursos de inferencia causal y econometría aplicada. He sido consultor para la FAO, el Banco Mundial, el Programa Mundial de Alimentos y otros organismos. Fui funcionario del Gobierno de México.]{.hero-desc}
+
+[Contáctame <i class="bi bi-arrow-right"></i>](mailto:irvin.rojas@cide.edu){.hero-btn}
+
+:::
+
+::::
+
+:::: {.hero-right}
+![](rojas-panorama-1.jpg){.hero-img fig-alt="Irvin Rojas"}
+::::
+
+:::: {.hero-scroll}
+[<i class="bi bi-mouse"></i> Desliza hacia abajo <i class="bi bi-arrow-down hero-scroll-arrow"></i>](#ultima-publicacion){.scroll-link}
+::::
+
+:::::
 
 
-:::: {.columns} 
+::: {#ultima-publicacion .home-section}
 
-::: {.column width="50%"} 
+## Última publicación
+
+:::: {.columns}
+
+::: {.column width="50%"}
 
 ::: {.justify}
 
@@ -29,7 +60,7 @@ En este artículo, en coautoría con Aleks Schaefer (Oklahoma State University),
 
 Rojas, I., \& Schaefer, K. A. (2024). ["Expanding the phytosanitary exclusion zone for Mexican avocados: Market impacts and unintended consequences."](https://www.sciencedirect.com/science/article/pii/S0306919224001490?casa_token=klFCmKi8oeYAAAAA:PxyG3JCyC-vIVouimfqlgewf3fFfjFqQX2WZRBZpUCLKFcF8Yt-9-H4Xogv_t1AZFB6OAJ7JW6s){target="_blank"} *Food Policy*, 129, 102738.
 
-[Ver Publicaciones](publications.qmd)
+[Ver todas las publicaciones <i class="bi bi-arrow-right"></i>](publications.qmd){.text-btn}
 
 :::
 
@@ -47,24 +78,28 @@ Rojas, I., \& Schaefer, K. A. (2024). ["Expanding the phytosanitary exclusion zo
 
 ::::
 
-
----
-
-# Cursos
-
-[Inferencia Causal](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"} - Maestría en Economía del CIDE
-
-[Econometría Aplicada y Ciencia de Datos](https://rojasirvin.github.io/econometria-ii/){target="_blank"} - Licenciatura y Maestría en Economía del CIDE
+:::
 
 
-[Ver Docencia](teaching.qmd)
+::: {.home-section}
 
----
+## Cursos
 
-# Apariciones en medios
+[Inferencia Causal](https://rojasirvin.github.io/evaluacion-de-programas/){target="_blank"} — Maestría en Economía del CIDE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UbHb4oqYRXI?si=EG9zuV1liNmDW-4J&amp;start=649" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Econometría Aplicada y Ciencia de Datos](https://rojasirvin.github.io/econometria-ii/){target="_blank"} — Licenciatura y Maestría en Economía del CIDE
 
-[Ver Medios (en construcción)](media.qmd)
+[Ver docencia <i class="bi bi-arrow-right"></i>](teaching.qmd){.text-btn}
 
----
+:::
+
+
+::: {.home-section}
+
+## Apariciones en medios
+
+<iframe class="media-embed" src="https://www.youtube.com/embed/UbHb4oqYRXI?si=EG9zuV1liNmDW-4J&amp;start=649" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Ver medios <i class="bi bi-arrow-right"></i>](media.qmd){.text-btn}
+
+:::

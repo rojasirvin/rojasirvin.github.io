@@ -1,28 +1,36 @@
 ---
-title: "Contacto"
+title: "Sobre mí"
 lang: es
 ---
 
-## Correo electrónico
-[irvin.rojas@cide.edu](mailto:irvin.rojas@cide.edu)
+Irvin Rojas es profesor – investigador de la División de Economía del CIDE. Su investigación se enfoca en temas de desarrollo económico, incluyendo evaluación de políticas públicas, agricultura, alimentación, migración, desarrollo rural, y cambio climático. En el CIDE imparte cursos de econometría y de métodos de inferencia causal, a nivel licenciatura y posgrado. Ha sido investigador visitante en la Universidad de Cornell, donde se encuentra afiliado como investigador. También ha sido consultor para organismos internacionales como la FAO, el Banco Mundial y el Banco Interamericano de Desarrollo. También ha sido funcionario público del Gobierno de México.
 
-## Teléfono de oficina
-+52 (55) 57 27 98 00 ext. 2766
+## Educación
 
-## Dirección
+Universidad de California, Davis | Doctor en Economía Agrícola y de los Recursos Naturales, 2018
 
-Centro de Investigación y Docencia Económicas
+El Colegio de México | Maestro en Economía, 2010
 
-División de Economía
+Universidad Autónoma Chapingo | Licenciado en Economía Agrícola, 2008
 
-Cubículo 4, planta alta
+## Experiencia en política pública y consultoría
 
-Carretera México-Toluca 3655
+- **Secretaría de Agricultura y Desarrollo Rural** — Director General del Servicio de Información Agroalimentaria y Pesquera (SIAP), enero – marzo 2026.
 
-Colonia Lomas de Santa Fe
+- **Secretaría de Agricultura y Desarrollo Rural** — Coordinador General de Información, Inteligencia y Evaluación, octubre 2024 – diciembre 2025.
 
-CP 01210
+- **Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO)** — Consultor.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3763.8736235633187!2d-99.264129!3d19.374624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2007849ebcbbb%3A0xe5979a5a0484be7f!2sCentro%20de%20Investigaci%C3%B3n%20y%20Docencia%20Econ%C3%B3micas!5e0!3m2!1sen!2sus!4v1720992678076!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+- **Banco Mundial** — Consultor.
 
----
+- **Banco Interamericano de Desarrollo** — Investigador junior.
+
+
+## Dirección de tesis
+
+Como asesor principal, he dirigido las siguientes tesis:
+
+**Licenciatura:** Jorge Silva (2019), Frida Pérez (2020), Joaquín Fosado (2020), Luis Vargasbravo (2021), Andrés del Río (2021), Diego Muñoz (2021), Luis Felipe Olvera (2024), Ilse Chico (2024), Miguel Rosales (2024), Luis Vicuña (2024), YeSol Lee (2025).
+
+**Posgrado:** Rafael Martínez (2021), Daniel Hernández (2021), Wilmer Ferrer (2021), Yolanda Rodríguez (2022), Adrián Guizar (2022), Pablo Pérez (2023), Abigail Quintana (2023), Mitchell Ortíz (2023), José Luis Valle (2026).
+

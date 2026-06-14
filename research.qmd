@@ -3,27 +3,25 @@ title: "Investigación"
 lang: es
 ---
 
-Mi investigación se desarrolla en las áreas el desarrollo económico y la econometría aplicada. Aquí puedes encontrar una lista de los proyectos en los que trabajo actualmente. Para los proyectos que han resultado en una publicación, ver mis Publicaciones.
+Mi investigación se desarrolla en las áreas el desarrollo económico y la econometría aplicada. Aquí puedes encontrar una lista de los proyectos en los que trabajo actualmente. Para los proyectos que han resultado en una publicación, ver mis [Publicaciones](publications.qmd).
 
 ## Evaluación
 
 En mi investigación, uso métodos econométricos para entender los efectos de políticas sobre distintas variables de interés. Uso una serie de métodos que incluyen diseños experimentales, simulaciones, técnicas econométricas no experimentales, entre otras. Actualmente, trabajo en los siguientes proyectos:
 
-- "Expanding the Phytosanitary Exclusion Zone: Impacts on U.S.-Mexico Avocado Trade", con Aleks Schaefer.
-
 - "The effects of an oil price bust in a subnational oil-producing economy", con Gerardo Juárez y Emmanuel Chávez.
 
 ## COVID-19
 
-Actualmente trabajo en un proyecto de investigación que analiza los efectos del covid-19 en varias dimensiones en México. Estos proyectos se encuentran en la fase de análisis de datos:
+Actualmente trabajo en un proyecto de investigación que analiza los efectos del COVID-19 en varias dimensiones en México. Estos proyectos se encuentran en la fase de análisis de datos:
 
 - "The Effects of the Pandemic in US on Mexican Households Consumption Allocation", con Francisco Cabrera.
 
-## Cambio climático
+## Agricultura y alimentación
 
-En una investigación en curso, usamos un experimento en laboratorio para estudiar la relación entre la temperatura y el comportamiento prosocial, así como el papel del género y la cultura para moldear dicha relación:
+En el contexto de la revisión del T-MEC, trabajo en el análisis de medidas restrictivas al comercio para los precios y la oferta de alimentos en México y EUA.
 
-- "Heat Stress, Gender, and Economic Behavior: Results from a Five-Country Experiment", con Alessandra Cassar y otros coautores.
+- "Economic Impact of Trade Restrictions on Mexican Seasonality Products".
 
 ## Interacciones estratégicas en migración
 
