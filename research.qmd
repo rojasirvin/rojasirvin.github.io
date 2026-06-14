@@ -11,17 +11,17 @@ En mi investigación, uso métodos econométricos para entender los efectos de p
 
 - "The effects of an oil price bust in a subnational oil-producing economy", con Gerardo Juárez y Emmanuel Chávez.
 
-## COVID-19
-
-Actualmente trabajo en un proyecto de investigación que analiza los efectos del COVID-19 en varias dimensiones en México. Estos proyectos se encuentran en la fase de análisis de datos:
-
-- "The Effects of the Pandemic in US on Mexican Households Consumption Allocation", con Francisco Cabrera.
-
 ## Agricultura y alimentación
 
 En el contexto de la revisión del T-MEC, trabajo en el análisis de medidas restrictivas al comercio para los precios y la oferta de alimentos en México y EUA.
 
 - "Economic Impact of Trade Restrictions on Mexican Seasonality Products".
+
+## COVID-19
+
+Actualmente trabajo en un proyecto de investigación que analiza los efectos del COVID-19 en varias dimensiones en México. Estos proyectos se encuentran en la fase de análisis de datos:
+
+- "The Effects of the Pandemic in US on Mexican Households Consumption Allocation", con Francisco Cabrera.
 
 ## Interacciones estratégicas en migración
 
