@@ -52,6 +52,11 @@ body.quarto-light {
   max-width: 900px;
 }
 
+/* Contacto page: opt out of the 900px cap so the three columns use the full page width */
+#quarto-document-content:has(.contact-wide) {
+  max-width: none;
+}
+
 /* Section headers get the homepage's accent bar */
 #quarto-document-content h2 {
   font-size: 1.7rem;

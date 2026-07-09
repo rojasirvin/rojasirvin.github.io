@@ -1,7 +1,10 @@
 ---
 title: "Contacto"
 lang: es
+toc: false
 ---
+
+::::: {.contact-wide}
 
 :::: {.columns}
 
@@ -49,3 +52,5 @@ CP 01210
 :::
 
 ::::
+
+:::::
