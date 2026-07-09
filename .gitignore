@@ -9,3 +9,7 @@
 .positai
 
 **/*.quarto_ipynb
+
+# Stray render artifacts at repo root (real output lives in docs/)
+/site_libs/
+/*.html
