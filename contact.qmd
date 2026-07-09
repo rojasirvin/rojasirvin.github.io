@@ -5,7 +5,7 @@ lang: es
 
 :::: {.columns}
 
-::: {.column width="45%"}
+::: {.column width="28%"}
 
 ## Correo electrónico
 
@@ -17,11 +17,11 @@ lang: es
 
 :::
 
-::: {.column width="10%"}
+::: {.column width="4%"}
 <!-- gap between columns -->
 :::
 
-::: {.column width="45%"}
+::: {.column width="28%"}
 
 ## Dirección
 
@@ -31,6 +31,16 @@ Cubículo 4, planta alta\
 Carretera México-Toluca 3655\
 Colonia Lomas de Santa Fe\
 CP 01210
+
+:::
+
+::: {.column width="4%"}
+<!-- gap between columns -->
+:::
+
+::: {.column width="36%"}
+
+## Ubicación
 
 ::: {.map-frame}
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3763.8736235633187!2d-99.264129!3d19.374624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2007849ebcbbb%3A0xe5979a5a0484be7f!2sCentro%20de%20Investigaci%C3%B3n%20y%20Docencia%20Econ%C3%B3micas!5e0!3m2!1sen!2sus!4v1720992678076!5m2!1sen!2sus" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
