@@ -5,7 +5,42 @@ lang: es
 
 ## Cursos en el CIDE
 
-- Inferencia Causal (en construcción), 2025 a la fecha
+:::: {.course-card}
+
+::: {.course-card-icon}
+<svg viewBox="0 0 140 80" role="img" aria-label="Diagrama causal: un confusor apunta al tratamiento y al resultado, y el tratamiento apunta al resultado">
+  <defs>
+    <marker id="ir-dag-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="currentColor"></path>
+    </marker>
+  </defs>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" marker-end="url(#ir-dag-arrow)">
+    <path d="M 34 58 L 96 58"></path>
+    <path d="M 62 24 L 32 44"></path>
+    <path d="M 78 24 L 108 44"></path>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-width="1.4">
+    <circle cx="70" cy="16" r="13"></circle>
+    <circle cx="22" cy="58" r="13"></circle>
+    <circle cx="118" cy="58" r="13"></circle>
+  </g>
+  <g fill="currentColor" font-size="13" font-weight="700" text-anchor="middle" font-family="inherit">
+    <text x="70" y="21">X</text>
+    <text x="22" y="63">D</text>
+    <text x="118" y="63">Y</text>
+  </g>
+</svg>
+:::
+
+::: {.course-card-body}
+[Inferencia Causal]{.course-card-title}
+
+[Maestría en Economía, CIDE · 2025 a la fecha]{.course-card-meta}
+
+[Sitio del curso 2026 <i class="bi bi-arrow-right"></i>](https://rojasirvin.github.io/inferencia-causal/){.hero-btn target="_blank"}
+:::
+
+::::
 
 ---
 

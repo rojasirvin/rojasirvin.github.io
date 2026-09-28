@@ -413,3 +413,54 @@ details.abstract p {
   .hero-desc { margin-left: auto; margin-right: auto; }
   .hero-right { order: -1; }
 }
+
+/* ---------------- COURSE CARD (Docencia) ---------------- */
+.course-card {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  flex-wrap: wrap;
+  padding: 1.5rem 1.75rem;
+  margin: 0 0 1.5rem;
+  border: 1px solid var(--ir-line);
+  border-radius: 0.75rem;
+  transition: border-color 0.15s ease;
+}
+.course-card:hover { border-color: var(--ir-fg); }
+
+/* Mini-DAG: monochrome, inherits the page colour in both themes */
+.course-card-icon {
+  flex: 0 0 auto;
+  color: var(--ir-muted);
+}
+.course-card-icon svg {
+  display: block;
+  width: 140px;
+  height: auto;
+}
+
+.course-card-body { flex: 1 1 280px; }
+.course-card-body p { text-align: left !important; margin-bottom: 0; }
+
+.course-card-title {
+  display: block;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.3rem;
+}
+.course-card-meta {
+  display: block;
+  color: var(--ir-muted);
+  font-size: 0.95rem;
+  margin-bottom: 1.1rem;
+}
+.course-card .hero-btn {
+  padding: 0.55rem 1.15rem;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 576px) {
+  .course-card { gap: 1.1rem; }
+  .course-card-icon svg { width: 110px; }
+}
