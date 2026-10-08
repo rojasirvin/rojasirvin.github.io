@@ -143,11 +143,11 @@ Apariciones en medios, textos y participación en foros y conferencias.
 :::
 
 ::: {.media-card}
-[![](https://i.ytimg.com/vi/3UGnXfJIhiw/mqdefault.jpg){fig-alt="Prespuesto de salud durante la emergencia del COVID"}](https://www.youtube.com/watch?v=3UGnXfJIhiw){.media-thumb .is-video target="_blank"}
+[![](https://i.ytimg.com/vi/3UGnXfJIhiw/mqdefault.jpg){fig-alt="Presupuesto de salud durante la emergencia del COVID"}](https://www.youtube.com/watch?v=3UGnXfJIhiw){.media-thumb .is-video target="_blank"}
 
 [La Octava · mar 2020]{.media-meta}
 
-[Una estrategia para apoyar a la industria de suministros médicos](https://www.youtube.com/watch?v=3UGnXfJIhiw){.media-title target="_blank"}
+[Presupuesto de salud durante la emergencia del COVID](https://www.youtube.com/watch?v=3UGnXfJIhiw){.media-title target="_blank"}
 :::
 
 ::: {.media-card}

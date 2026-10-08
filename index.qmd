@@ -85,9 +85,9 @@ Rojas, I., \& Schaefer, K. A. (2024). ["Expanding the phytosanitary exclusion zo
 
 ## Cursos
 
-[Inferencia Causal](https://rojasirvin.github.io/inferencia-causal/){target="_blank"} — Maestría en Economía del CIDE
+[Inferencia Causal 2026](https://rojasirvin.github.io/inferencia-causal/){target="_blank"} — Maestría en Economía del CIDE
 
-[Econometría Aplicada y Ciencia de Datos](https://rojasirvin.github.io/econometria-ii/){target="_blank"} — Licenciatura y Maestría en Economía del CIDE
+[Econometría Aplicada y Ciencia de Datos 2025](https://rojasirvin.github.io/econometria-ii/){target="_blank"} — Licenciatura y Maestría en Economía del CIDE
 
 [Ver docencia <i class="bi bi-arrow-right"></i>](teaching.qmd){.text-btn}
 
