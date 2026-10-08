@@ -98,7 +98,13 @@ Rojas, I., \& Schaefer, K. A. (2024). ["Expanding the phytosanitary exclusion zo
 
 ## Apariciones en medios
 
-<iframe class="media-embed" src="https://www.youtube.com/embed/UbHb4oqYRXI?si=EG9zuV1liNmDW-4J&amp;start=649" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::: {.media-card .home-media-card}
+[![](https://i.ytimg.com/vi/UbHb4oqYRXI/hqdefault.jpg){fig-alt="Propuestas de las candidatas en materia económica"}](https://www.youtube.com/watch?v=UbHb4oqYRXI&t=649s){.media-thumb .is-video target="_blank"}
+
+[NMás · Es la Hora de Opinar · may 2024]{.media-meta}
+
+[Propuestas de las candidatas en materia económica](https://www.youtube.com/watch?v=UbHb4oqYRXI&t=649s){.media-title target="_blank"}
+:::
 
 [Ver medios <i class="bi bi-arrow-right"></i>](media.qmd){.text-btn}
 

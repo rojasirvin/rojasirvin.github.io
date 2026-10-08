@@ -57,6 +57,11 @@ body.quarto-light {
   max-width: none;
 }
 
+/* Medios page: same opt-out, so the three columns have room */
+#quarto-document-content:has(.media-wide) {
+  max-width: none;
+}
+
 /* Section headers get the homepage's accent bar */
 #quarto-document-content h2 {
   font-size: 1.7rem;
@@ -463,4 +468,124 @@ details.abstract p {
 @media (max-width: 576px) {
   .course-card { gap: 1.1rem; }
   .course-card-icon svg { width: 110px; }
+}
+
+/* ---------------- MEDIOS ---------------- */
+/* Three section columns side by side; a single column on phones */
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2.25rem;
+  align-items: start;
+  margin-top: 1.5rem;
+}
+@media (max-width: 767px) {
+  .media-grid { grid-template-columns: minmax(0, 1fr); }
+}
+
+#quarto-document-content .media-col h2 {
+  font-size: 1.3rem;
+  margin: 0 0 1.3rem !important;
+}
+
+.media-card {
+  padding-bottom: 1.4rem;
+  margin-bottom: 1.4rem;
+  border-bottom: 1px solid var(--ir-line);
+}
+.media-card:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+#quarto-document-content .media-card p {
+  text-align: left;
+  margin-bottom: 0.35rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--ir-muted);
+}
+
+/* Thumbnail: 16:9 frame; book/magazine covers are cropped from the top (masthead) */
+#quarto-document-content .media-thumb {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+  border: 1px solid var(--ir-line) !important;
+  border-radius: 0.6rem;
+  transition: border-color 0.15s ease;
+}
+#quarto-document-content a.media-thumb:hover { border-color: var(--ir-fg) !important; }
+.media-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.media-thumb.is-cover img { object-position: top; }
+
+/* Play badge on video thumbnails */
+.media-thumb.is-video::after {
+  content: "";
+  position: absolute;
+  right: 0.6rem;
+  bottom: 0.6rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.72)
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M6 4.2v7.6L12 8z'/%3E%3C/svg%3E")
+    center / 100% no-repeat;
+}
+
+.media-meta {
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ir-muted);
+}
+#quarto-document-content .media-title {
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--ir-fg);
+  border-bottom-color: transparent;
+}
+#quarto-document-content a.media-title:hover { border-bottom-color: var(--ir-fg); }
+
+/* Series card: a compact list of every piece in a recurring column */
+#quarto-document-content .media-series ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.6rem 0 0;
+}
+#quarto-document-content .media-series li {
+  margin: 0;
+  padding: 0.45rem 0;
+  border-top: 1px solid var(--ir-line);
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+.media-date {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ir-muted);
+}
+#quarto-document-content .media-series li a {
+  color: var(--ir-fg);
+  border-bottom-color: transparent;
+}
+#quarto-document-content .media-series li a:hover { border-bottom-color: var(--ir-fg); }
+
+/* Homepage: the latest Medios card, same look as on the Medios page */
+.media-card.home-media-card {
+  max-width: 420px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border-bottom: none;
 }
